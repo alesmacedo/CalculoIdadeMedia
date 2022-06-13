@@ -1,4 +1,4 @@
 # Descrição do projeto - CalculoIdadeMedia
 
-Código criado para realizar o cálculo da idade média de três alunos.
+Console com código criado para realizar o cálculo da idade média de três alunos.
 Criado com a linguagem C#.
